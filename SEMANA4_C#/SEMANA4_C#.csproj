@@ -54,6 +54,7 @@
     <Compile Include="Ejer2.cs" />
     <Compile Include="Ejer3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SEMANA_5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
